@@ -1,3 +1,12 @@
+rdma-core (24.0-1vyatta1) unstable; urgency=medium
+
+  [ Duncan Eastoe ]
+  * Revert "debian: Switch to debhelper 12"
+  * Revert "debian: Switch to debhelper 11"
+  * Update package maintainer
+
+ -- Vyatta Package Maintainers <DL-vyatta-help@att.com>  Fri, 08 Nov 2019 20:11:18 +0000
+
 rdma-core (24.0-1) unstable; urgency=medium
 
   * New upstream release.
